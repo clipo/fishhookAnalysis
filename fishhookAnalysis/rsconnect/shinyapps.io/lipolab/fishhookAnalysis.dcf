@@ -1,0 +1,12 @@
+name: fishhookAnalysis
+title: fishhookAnalysis
+username: lipolab
+account: lipolab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14728498
+bundleId: 10262674
+url: https://lipolab.shinyapps.io/fishhookAnalysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
